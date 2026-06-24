@@ -2,7 +2,7 @@
 
 This is the course repository for **Unit 1 (Envision & Read)** of DSO-576, *Algorithmic Thinking with Python*. You'll **clone this repo and run one command** to install everything the course needs. Material is organized into numbered folders that grow as the unit goes on — it starts with **`1-onboarding/`**.
 
-> **Brand-new to all this?** First set up your computer with the step-by-step **[DSO-576 setup guide](https://dso576-setup.vercel.app)** *(link to be finalized)* — it walks you through installing VS Code, Python (uv), GitHub, and the AI tools with zero experience assumed. Come back here when it tells you to clone the course repo.
+> **Brand-new to all this?** First set up your computer with the step-by-step **[DSO-576 setup guide](https://dso576-setup.vercel.app)** — it walks you through installing VS Code, Python (uv), GitHub, and the AI tools with zero experience assumed. Come back here when it tells you to clone the course repo.
 
 ---
 
@@ -41,7 +41,7 @@ uv run streamlit run 1-onboarding/app.py
 
 Your browser should open showing a chart titled *"Setup works! 🎉"*. Press **Ctrl + C** in the terminal to stop it.
 
-If anything fails, re-run `uv sync` from the repo root, then try again. Still stuck? See the **[setup guide's help section](https://dso576-setup.vercel.app/help)** *(link to be finalized)* or bring the exact error to office hours.
+If anything fails, re-run `uv sync` from the repo root, then try again. Still stuck? See the **[setup guide's help section](https://dso576-setup.vercel.app/help)** or bring the exact error to office hours.
 
 ---
 
