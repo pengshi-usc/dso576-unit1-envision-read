@@ -1,0 +1,23 @@
+[project]
+name = "dso576-unit1-envision-read"
+version = "0.1.0"
+description = "DSO-576 Unit 1 (Envision & Read) — clone and run `uv sync`. Starts with 1-onboarding/ setup checks."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=6.2.2",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "jupytext>=1.19.4",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "plotly>=6.8.0",
+    "psycopg[binary]>=3.3.4",
+    "seaborn>=0.13.2",
+    "snowflake-connector-python[pandas]>=4.6.0",
+    "sqlalchemy>=2.0.51",
+    "streamlit>=1.58.0",
+    "xlsxwriter>=3.2.9",
+]
